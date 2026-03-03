@@ -1,4 +1,4 @@
-# Geopolitics Dashboard Setup
+# GEOPULSE - Geopolitics Dashboard
 
 The Geopolitics Dashboard is a full-stack MERN application that fetches live global news via RSS, maps it to real-world coordinates, and broadcasts the updates in real-time to a React-powered 3D globe visualization.
 
